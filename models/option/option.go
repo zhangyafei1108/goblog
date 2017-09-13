@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/lisijie/goblog/models"
-	"github.com/lisijie/goblog/util"
+	"goblog/models"
+	"goblog/util"
 )
 
 func GetOptions() map[string]string {

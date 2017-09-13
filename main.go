@@ -3,10 +3,10 @@ package main
 import (
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
-	"github.com/lisijie/goblog/controllers/admin"
-	"github.com/lisijie/goblog/controllers/blog"
-	"github.com/lisijie/goblog/models"
-	"github.com/lisijie/goblog/util"
+	"goblog/controllers/admin"
+	"goblog/controllers/blog"
+	"goblog/models"
+	"goblog/util"
 )
 
 func init() {
